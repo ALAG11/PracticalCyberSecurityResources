@@ -88,6 +88,8 @@ Happy hunting❗️👻
 
 - https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/
 
+- [https://mux1337.gitbook.io/mux1337-hack-tips-and-collections/bug-bounties-and-hack-tips](https://mux1337.gitbook.io/mux1337-hack-tips-and-collections/bug-bounties-and-hack-tips)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
